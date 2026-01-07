@@ -1,6 +1,0 @@
-requests
-pandas
-simplekml
-fastapi
-uvicorn[standard]
-httpx
